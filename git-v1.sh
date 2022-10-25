@@ -65,7 +65,7 @@ for name in "${directories[@]}"; do
 done
 
 #for Garuda
-mv root/etc/pacman.d/hooks/archlinux-appstream-data.hook root/etc/pacman.d/hooks/archlinux-appstream-data-fix.hook
+#mv root/etc/pacman.d/hooks/archlinux-appstream-data.hook root/etc/pacman.d/hooks/archlinux-appstream-data-fix.hook
 
 rm root/etc/pacman.d/gnupg/gpg.conf
 rm root//etc/X11/xorg.conf.d/30-touchpad.conf
