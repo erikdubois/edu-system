@@ -37,7 +37,7 @@ rm -rf root
 mkdir root
 rm -rf /tmp/input
 
-directories=(arcolinux-system-config)
+directories=(arcolinux-system-config arcolinux-sddm-simplicity)
 
 count=0
 
